@@ -17,3 +17,25 @@ ul {
 a {
     text-decoration: none;
 }
+.container { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 16rem;
+
+}
+.container button { 
+    margin: 3rem;
+    padding: 1rem;
+    font-size: large;
+
+}
+.btn-minus { 
+    background-color: red;
+}
+.btn-plus { 
+    background-color: greenyellow;
+}
+
+
